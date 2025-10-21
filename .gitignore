@@ -60,6 +60,7 @@ Thumbs.db
 *.pickle
 *.joblib
 *.model
+*.bin
 
 # Output data (but keep input data)
 # Uncomment if you have output directories
