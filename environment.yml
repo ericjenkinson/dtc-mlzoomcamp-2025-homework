@@ -1,0 +1,14 @@
+name: ml-zoomcamp
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - scikit-learn
+  - seaborn
+  - pandas
+  - jupyter
+  - numpy
+  - flask
+  - gunicorn
+prefix: /opt/conda/envs/ml-zoomcamp
